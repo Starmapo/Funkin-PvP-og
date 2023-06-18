@@ -1,0 +1,37 @@
+add tricky
+add bpm for menu music
+add miss color
+remake character select
+use cameras instead of cliprect
+add player pause
+add consistent hold loops
+add health bar
+add gamepad mode for p1
+add controls options for all modes
+add menu transitions
+add portals in intro
+add joeys lost tapes
+add ourple guy
+add arcade showdown
+add baldis basics in funkin
+tasque manager character
+nintendo switch dog character
+curse redrawn character
+rudinn character
+add sonic.exe restored
+add retrospecter
+add minus
+add mistful crimson morning
+add cn takeover
+add matt
+add funkin physics
+add troll
+add bob
+add cheeky
+add nekofreak
+add whitty
+add hex
+add entity
+add tabi
+add mid-fight masses
+add times & tribulations
